@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    border: 1px solid black;
+}
+
+.row{
+    border: 1px solid black;
+}
+
+.col-md-2{
+   border: 1px solid black;
+   height: 100px;
+}

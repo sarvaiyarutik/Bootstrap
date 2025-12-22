@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.container{
+    border: 1px solid black;
+}
+.row{
+    border: 1px solid black;
+    
+}
+
+ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5rem;
+    
+}
+
+li{
+    list-style: none;
+}
+
+.col-md-9{
+    border: 1px solid black ;
+}
+
+
+p{
+    text-align: center;
+}
+.col{
+    text-align: center;
+}

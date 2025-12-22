@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.body{
+    border: 1px solid black;
+}
+
+.header{
+    background-color: rgb(163, 163, 216);
+}
+
+.rows1{
+    border: 1px solid black;
+    text-align: right;
+    background-color: rgb(124, 124, 6);
+}
+
+.col a{
+    text-decoration: none;
+    color: rgb(15, 179, 190);
+    padding: 40px;
+}
+
+h2{
+    text-align: center;
+}
+
+section{
+
+    background-color: rgb(77, 78, 78);
+}
+.footer{
+    background-color: coral;
+}
+
+h1{
+    text-align: center;
+}
+

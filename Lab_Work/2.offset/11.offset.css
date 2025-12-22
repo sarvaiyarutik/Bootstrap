@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+   text-align: center;
+}
+
+.col-md-1{
+    height: 400px;
+}
+
+.accordion1{
+    background-color: lightblue;
+}
+
+.accordion2{
+    background-color: lightgreen;
+}
+
+.accordion3{
+    background-color: lightcoral;
+}
+
+.accordion4{
+    background-color: lightgoldenrodyellow;
+}
+
+.accordion5{
+    background-color: lightpink;
+}
+
+.accordion6{
+    background-color: lightgray;
+}
+.accordion7{
+    background-color: lightseagreen;
+}
+
+.accordion8{
+    background-color: lightsalmon;
+}
+.accordion9{
+    background-color: lightsteelblue;
+}
+.accordion10{
+    background-color: lightcyan;
+}
+.accordion11{
+    background-color: lightyellow;
+}
+.accordion12{
+    background-color: lightgray;
+}
+

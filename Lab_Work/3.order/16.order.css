@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    text-align: center;
+}
+
+
+.col-md-2{
+        width: 200px; 
+        height: 50px;                                         
+}
+
+.col-md-1{
+    height: 300px;
+}
+
+.accordion1{
+    background-color: lightblue;
+}
+.accordion2{
+    background-color: lightgreen;
+}           
+.accordion3{
+    background-color: lightyellow;
+}
+.accordion4{
+    background-color: lightpink;
+}   
+.accordion5{
+    background-color: lightgray;
+}   
+.accordion6{
+    background-color: lightcoral;
+}
+.accordion7{
+    background-color: lightseagreen;
+}   
+.accordion8{
+    background-color: lightsteelblue;
+}   

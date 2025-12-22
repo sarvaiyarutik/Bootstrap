@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    border: 5px solid black;
+}
+
+.row{
+    border: 3px solid red;
+    
+    
+}
+
+.col{
+    border: 1px solid papayawhip;
+    height: 250px;
+}
+
+

@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    text-align: center;
+}
+
+.col-md-2{
+    height: 222px;
+}
+
+.accordion1{
+    background-color: rosybrown;
+}
+
+.accordion2{
+    background-color: lightblue;
+}
+
+.accordion3{
+    background-color: lightgreen;
+}
+
+.accordion4{
+    background-color: lightyellow;
+}
+
+.accordion5{
+    background-color: lightpink;
+}
+
+.accordion6{
+    background-color: lightcoral;
+}
+
+.accordion7{
+    background-color: lightseagreen;
+}
+
+.accordion8{
+    background-color: lightsteelblue;
+}
+
+.accordion9{
+    background-color: lightgoldenrodyellow;
+}
+
+
+.accordion10{
+    background-color: lightcyan;
+}

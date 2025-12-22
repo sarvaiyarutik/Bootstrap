@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.body{
+    border: 1px solid black;
+}
+
+
+
+.rows1{
+    border: 1px solid black;
+    text-align: center;
+    padding: 2rem;
+   
+}
+.accordion{
+    border: 1px solid black;
+    height: 800px;
+}
+
+.col a{
+    text-decoration: none;
+    color: rgb(15, 179, 190);
+    padding: 40px;
+
+}
+
+h2{
+    text-align: center;
+}
+
+
+h1{
+    text-align: center;
+}
+

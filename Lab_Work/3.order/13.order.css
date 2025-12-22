@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    text-align: center;
+}
+
+.col-md-2{
+    height: 222px;
+}
+
+.accordion1{
+    background-color: rosybrown;
+}
+
+.accordion2{
+    background-color: lightblue;
+}
+
+.accordion3{
+    background-color: lightgreen;
+}
+
+.accordion4{
+    background-color: lightyellow;
+}
+
+.accordion5{
+    background-color: lightpink;
+}

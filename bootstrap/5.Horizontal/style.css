@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    border: 1px solid black;
+}
+
+.row{
+    border: 1px solid rgb(255, 120, 120);
+    /* background-color: beige; */
+}
+
+.col-md-2   {
+    height: 200px;
+}
+
+.accordion-1{
+    background-color: darkgreen;
+}
+
+.accordion-2{
+    background-color: darkgoldenrod;
+}
+
+.accordion-3{
+    background-color: rgb(233, 85, 109);
+}
+.accordion-4{
+    background-color: rgb(54, 59, 105);
+}
+
+.box1{
+    background-color: crimson;
+}
+
+.box2{
+    background-color: coral;
+}
+
+.box3{
+    background-color: cyan;
+}
+.box4{
+    background-color: darkgreen;
+}

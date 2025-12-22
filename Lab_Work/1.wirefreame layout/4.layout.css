@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container-fluid{
+    text-align: center;
+    border: 1px solid black;
+}
+
+ul{
+    display: flex;
+    gap: 2rem;
+}
+
+li{
+   list-style: none;
+  
+}
+
+.row .col{
+    border: 1px solid black;
+}
+
+.col-sm-10{
+     border: 1px solid black;
+}
+
+.col-sm-2{
+     border: 1px solid black;
+}

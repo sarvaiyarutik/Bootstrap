@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    /* border: 1px solid #a39191; */
+    text-align: center;
+    
+}
+
+.col-md-4{
+    height: 350px;
+    
+}
+
+.col-md-2{
+    height: 300px;
+    
+    margin-top: 20px;
+}
+
+.accordion-1{
+    background-color: lightblue;
+    
+}
+
+.accordion-2{
+    background-color: lightpink;
+
+}
+
+.active-1{
+    background-color: lightskyblue;
+}
+
+.active-2{
+    background-color: lightgreen;
+}   
+.active-3{
+    background-color: rgb(240, 229, 128);
+}

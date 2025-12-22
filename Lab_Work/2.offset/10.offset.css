@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;        
+    box-sizing: border-box;
+}
+
+.container{
+    margin-top: 20px;
+    text-align: center;
+}
+
+.col-md-4{
+    height: 350px;
+}
+
+.accordion1{
+    background-color: rgb(98, 167, 228);
+}
+.accordion2{
+    background-color: rgb(228, 98, 167);
+}
+.accordion3{
+    background-color: rgb(167, 228, 98);
+}
+.accordion4{
+    background-color: rgb(228, 167, 98);
+}
+.accordion5{
+    background-color: rgb(98, 228, 167);
+}
+.accordion6{
+    background-color: rgb(167, 98, 228);
+}

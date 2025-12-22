@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+.container{
+    text-align: center;
+}
+.col-md-1 {
+    width: 300px;
+    height: 300px;
+   
+}
+
+.offset-box1{
+    background-color: lightcoral;
+}
+
+.offset-box2{
+    background-color: lightseagreen;
+}   
+
+.offset-box3{
+    background-color: lightgoldenrodyellow;
+}
+
+.offset-box4{
+    background-color: lightgray;
+}
+
+.offset-box5{
+    background-color: lightcyan;
+}
+
+.offset-box6{
+    background-color: lightsteelblue;
+}

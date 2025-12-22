@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.container{
+    border: 2px solid rgb(227, 231, 0);
+}
+
+
+.col{
+    height: 250px;
+    /* border: 1px solid rgb(255, 25, 25); */
+    color: brown;
+  
+}
