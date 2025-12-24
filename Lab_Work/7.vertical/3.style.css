@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    background-color: azure;
+    border: 1px solid black;
+    
+}
+.row{
+    height: 400px;
+    border: 1px solid black;
+}
+
+.col-md-12{
+    border: 1px solid black ;
+}

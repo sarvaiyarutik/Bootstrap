@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container{
+  border: 2px solid black;
+  margin-top: 20px;
+}
+
+.demo-row{
+  height: 150px;
+  border: 1px solid red;
+  margin-bottom: 20px;
+}
+
+.box{
+  border: 1px solid royalblue;
+  padding: 10px;
+}

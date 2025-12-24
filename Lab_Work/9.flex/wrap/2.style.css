@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.col-md-3{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+}
+
+
+
+.d-flex{
+     width: 200px;
+
+}
+
