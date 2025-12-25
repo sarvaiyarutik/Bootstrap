@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    border: 1px solid black;
+    height: 500px;
+}
+
+.row{
+    border: 1px solid black;
+    width: 200px;
+}
+
+.col-md-2{
+    width: 200px;
+    border: 1px solid black;
+}
+
+h5{
+    color: rgb(141, 226, 43);
+}
