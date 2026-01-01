@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Bootstrap Form</title>
+
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+
+<body class="bg-light">
+
+  <div class="container py-5">
+    <div class="row justify-content-center">
+      <div class="col-md-6">
+
+        <div class="card shadow">
+       
+
+          <div class="">
+            <form>
+
+             
+              <div class="mb-3">
+                <label class="form-label">Your Name</label>
+                <input type="text" class="form-control" placeholder="Enter your name">
+              </div>
+
+            
+              <div class="mb-3">
+                <label class="form-label">Email Address</label>
+                <input type="email" class="form-control" value="rutik@gmail.com" readonly>
+              </div>
+
+         
+              <div class="mb-3">
+                <label class="form-label">Mobile Number</label>
+                <input type="number" class="form-control">
+                <div class="form-text">+91 **********</div>
+              </div>
+
+              <div class="mb-3">
+                <label class="form-label">Large Input</label>
+                <input type="text" class="form-control form-control-lg" placeholder="Large size input">
+              </div>
+
+       
+              <div class="mb-3">
+                <label class="form-label">Small Input</label>
+                <input type="text" class="form-control form-control-sm" placeholder="Small size input">
+              </div>
+
+  
+              <div class="mb-3">
+                <label class="form-label">Upload File</label>
+                <input type="file" class="form-control">
+              </div>
+
+              <div class="mb-3">
+                <label class="form-label d-block">Select Gender</label>
+
+                <div class="form-check form-check-inline">
+                  <input class="form-check-input" type="radio" name="gender">
+                  <label class="form-check-label">Male</label>
+                </div>
+
+                <div class="form-check form-check-inline">
+                  <input class="form-check-input" type="radio" name="gender">
+                  <label class="form-check-label">Female</label>
+                </div>
+              </div>
+
+              <div class="mb-3">
+                <label class="form-label">Select City</label>
+                <input class="form-control" list="cityList" placeholder="Choose city">
+                <datalist id="cityList">
+                  <option value="Talaja">
+                  <option value="Tanasa">
+                  <option value="Mahuva">
+                  <option value="Bhavnagar">
+                </datalist>
+              </div>
+
+              <div class="form-floating mb-4">
+                <input type="email" class="form-control" id="floatingEmail" placeholder="name@example.com">
+                <label for="floatingEmail">Another Email</label>
+              </div>
+
+              <div class="d-grid">
+                <button type="submit" class="btn btn-primary">Submit</button>
+              </div>
+
+            </form>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
